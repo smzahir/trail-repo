@@ -1,0 +1,4 @@
+a = [2,66,51,89,33]
+b = " python simplified"
+print(a)
+print(b)
